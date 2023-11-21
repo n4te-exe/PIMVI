@@ -1,2 +1,2 @@
 # PIMVI
-PROJETO INTEGRADO MULTIDISCIPLINAR VI
+Controle de Vendas de uma loja de jogos, acessórios e produtos geek
