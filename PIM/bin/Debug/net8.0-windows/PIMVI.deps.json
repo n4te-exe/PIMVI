@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PIMVI/1.0.0": {
+        "runtime": {
+          "PIMVI.dll": {}
+        },
+        "resources": {
+          "pt-BR/PIMVI.resources.dll": {
+            "locale": "pt-BR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PIMVI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
