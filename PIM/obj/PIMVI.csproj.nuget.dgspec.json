@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Personal\\PIMVI\\PIM\\PIMVI.csproj": {}
+    "C:\\Projects\\PIMVI\\PIM\\PIMVI.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Personal\\PIMVI\\PIM\\PIMVI.csproj": {
+    "C:\\Projects\\PIMVI\\PIM\\PIMVI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Personal\\PIMVI\\PIM\\PIMVI.csproj",
+        "projectUniqueName": "C:\\Projects\\PIMVI\\PIM\\PIMVI.csproj",
         "projectName": "PIMVI",
-        "projectPath": "C:\\Projects\\Personal\\PIMVI\\PIM\\PIMVI.csproj",
-        "packagesPath": "C:\\Users\\natav\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Personal\\PIMVI\\PIM\\obj\\",
+        "projectPath": "C:\\Projects\\PIMVI\\PIM\\PIMVI.csproj",
+        "packagesPath": "C:\\Users\\Vinicius Mioto\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\PIMVI\\PIM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\natav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vinicius Mioto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

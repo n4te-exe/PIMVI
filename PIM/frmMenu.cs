@@ -19,7 +19,7 @@ namespace PIMVI
 
         private void frmMenu_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("Deseja realmente sair?", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            if (MessageBox.Show("testando o git/github", "Sair", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 Application.Exit();
             }

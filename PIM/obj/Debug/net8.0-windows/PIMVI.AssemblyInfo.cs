@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PIMVI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+556a661a06ad34b8c1b7899dd822bd97c9a2e6cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3d14c9c966cb17362ab7777b9313b3944ec8299")]
 [assembly: System.Reflection.AssemblyProductAttribute("PIMVI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PIMVI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
